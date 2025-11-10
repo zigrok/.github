@@ -6,6 +6,8 @@
 
 *Quality of life utilities, helpers, and frameworks for the Zig ecosystem*
 
+**zig** + **grok** = deeply understanding Zig
+
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/zigrok)
 
 </div>
